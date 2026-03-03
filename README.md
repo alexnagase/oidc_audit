@@ -7,7 +7,7 @@ Is this app also vulnerable to open-redirect attacks (Wildcard URIs)?
 
 What Auth Policy is protecting this app?
 
-Who owns this app? (via App URLs)
+What is the URL of the app? 
 
 ## Instructions : 
 
